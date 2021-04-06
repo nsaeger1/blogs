@@ -1,0 +1,7 @@
+C:\Users\lawl2\Desktop\WCTC\2021\Spring\.net_Web\blogs\obj\Debug\netcoreapp3.1\blogs.csprojAssemblyReference.cache
+C:\Users\lawl2\Desktop\WCTC\2021\Spring\.net_Web\blogs\obj\Debug\netcoreapp3.1\blogs.AssemblyInfoInputs.cache
+C:\Users\lawl2\Desktop\WCTC\2021\Spring\.net_Web\blogs\obj\Debug\netcoreapp3.1\blogs.AssemblyInfo.cs
+C:\Users\lawl2\Desktop\WCTC\2021\Spring\.net_Web\blogs\obj\Debug\netcoreapp3.1\blogs.csproj.CoreCompileInputs.cache
+C:\Users\lawl2\Desktop\WCTC\2021\Spring\.net_Web\blogs\obj\Debug\netcoreapp3.1\blogs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lawl2\Desktop\WCTC\2021\Spring\.net_Web\blogs\obj\Debug\netcoreapp3.1\blogs.RazorAssemblyInfo.cache
+C:\Users\lawl2\Desktop\WCTC\2021\Spring\.net_Web\blogs\obj\Debug\netcoreapp3.1\blogs.RazorAssemblyInfo.cs
